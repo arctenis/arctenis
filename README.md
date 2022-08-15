@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @arctenis
-- 👀 I’m interested in backend web dev, data science, audio processing...
-- 🌱 I’m currently learning django and data science.
-- 💞️ I’m looking to collaborate on SaaS built with Django.
-- 📫 How to reach me ?
+- 👋 Hi, I’m @arctenis, developer based in France.
 
 <!---
 arctenis/arctenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
