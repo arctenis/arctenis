@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arctenis, developer based in France.
+- 👋 Bonjour, je m'appelle Nicolas et suis développeur python. Je crée des applications web avec Django.
 
 <!---
 arctenis/arctenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
