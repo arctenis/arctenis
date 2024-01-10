@@ -1,4 +1,4 @@
 - Python, Javascript. Learning Go.
-- Django, Flask.
+- Django.
 - TDD
-- CI/CD Docker, Gitlab
+- CI/CD Docker, Gitlab 
